@@ -1,0 +1,16 @@
+
+.message {
+	text-align: center;
+	padding: 20rpx;
+	font-size: .8em;
+	color: #ff0000;
+	background-color: #ffffff;
+}
+.copy-right {
+	position: fixed;
+	bottom: 0;
+	font-size: .8em;
+	margin: 40rpx;
+	text-align: center;
+}
+

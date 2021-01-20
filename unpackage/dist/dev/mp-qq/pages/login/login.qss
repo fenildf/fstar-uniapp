@@ -1,0 +1,12 @@
+
+input {
+	margin: 20rpx;
+	padding: 20rpx;
+	background-color: #f8f8f8;
+	border-radius: 20rpx;
+	font-size: .8em;
+}
+button {
+	margin: 20rpx;
+}
+

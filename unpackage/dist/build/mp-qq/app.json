@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/settings/settings",
+    "pages/score/score",
+    "pages/login/login",
+    "pages/about/about"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "繁星",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#00aaff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/score/score",
+        "iconPath": "static/score.png",
+        "selectedIconPath": "static/score.png",
+        "text": "成绩"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/table.png",
+        "selectedIconPath": "static/table.png",
+        "text": "课表"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "iconPath": "static/settings.png",
+        "selectedIconPath": "static/settings.png",
+        "text": "设置"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

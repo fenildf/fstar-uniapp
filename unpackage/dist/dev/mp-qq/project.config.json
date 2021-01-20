@@ -1,0 +1,33 @@
+{
+  "description": "项目配置文件。",
+  "packOptions": {
+    "ignore": []
+  },
+  "setting": {
+    "minified": true,
+    "es6": true,
+    "postcss": true
+  },
+  "compileType": "miniprogram",
+  "projectname": "繁星课程表",
+  "condition": {
+    "search": {
+      "current": -1,
+      "list": []
+    },
+    "conversation": {
+      "current": -1,
+      "list": []
+    },
+    "game": {
+      "current": -1,
+      "list": []
+    },
+    "miniprogram": {
+      "current": -1,
+      "list": []
+    }
+  },
+  "qqappid": "1110690923",
+  "qqLibVersion": "1.6.3"
+}

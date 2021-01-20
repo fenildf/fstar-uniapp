@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "学业成绩",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-data-checkbox": "/components/uni-data-checkbox/uni-data-checkbox",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "w-loading": "/components/w-loading/w-loading"
+  }
+}

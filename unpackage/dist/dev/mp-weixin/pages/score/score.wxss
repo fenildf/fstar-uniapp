@@ -1,0 +1,67 @@
+
+.query-button {
+	margin: 20rpx;
+	font-size: .9em;
+}
+.score-wrap {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	text-align: center;
+	padding: 4px;
+	margin: 10px;
+	border: 1px solid #dddd;
+	border-radius: 10px;
+	box-shadow: 1px 1px 5px #888888;
+}
+.score-wrap .item {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	-webkit-align-self: center;
+	        align-self: center;
+	font-size: .8em;
+	line-height: 1.5em
+}
+.dialog {
+	background-color: #fafafa;
+	width: 500rpx;
+	/* height: 500rpx; */
+	border-radius: 20rpx;
+	padding: 20rpx;
+	font-size: 80%;
+	text-align: center;
+}
+.dialog-button {
+	margin: 20rpx;
+	/* position: absolute; */
+	/* bottom: -110rpx; */
+	left: 0;
+	right: 0;
+}
+.current-semester {
+	border: #333333;
+	border-radius: 20rpx;
+	/* font-size: .9em; */
+	margin: 20rpx;
+	margin-top: 40rpx;
+	margin-bottom: 40rpx;
+	text-align: center;
+}
+.gpa-info {
+	text-align: center;
+	font-size: .8em;
+	border: #2C405A;
+	border-radius: 20rpx;
+	box-shadow: 1px 1px 5px #888888;
+	margin: 20rpx;
+	padding: 20rpx;
+}
+.gpa-mode {
+	margin: 20rpx;
+	padding: 20rpx;
+}
+.manual-button {
+	margin: 20rpx;
+}
+
